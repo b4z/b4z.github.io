@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Home
+tagline:          'b4z'
+description:      ''
+url:              http://www.b4z.org
+
+author:
+  name:           'b4z'
+  url:            https://www.b4z.org
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/b4z

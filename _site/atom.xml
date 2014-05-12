@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Home</title>
+ <link href="http://www.b4z.org/atom.xml" rel="self"/>
+ <link href="http://www.b4z.org/"/>
+ <updated>2014-05-12T02:04:59+03:00</updated>
+ <id>http://www.b4z.org</id>
+ <author>
+   <name>b4z</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Home of the b4z project</title>
+   <link href="http://www.b4z.org/2014/05/11/home-of-the-b4z-project/"/>
+   <updated>2014-05-11T00:00:00+03:00</updated>
+   <id>http://www.b4z.org/2014/05/11/home-of-the-b4z-project</id>
+   <content type="html">&lt;p&gt;&lt;i class=&quot;fa fa-code fa-5x pull-left&quot;&gt;&lt;/i&gt; Hey there! Welcome here. We are a small IT Team called &lt;a href=&quot;http://www.b4z.org&quot;&gt;&lt;strong&gt;b4z&lt;/strong&gt;&lt;/a&gt; and our main goal is to do something simple and useful. We are planning to involve some kind of desktop and mobile based web &amp;amp; software projects.&lt;/p&gt;
+
+&lt;p&gt;We hope you enjoy all of our finely crafted products. It&amp;#39;s all for you! Please let us know what you think and don&amp;#39;t hesitate to contact us. Yours feedback is extremely important for us so please keep &amp;#39;em coming!&lt;/p&gt;
+
+&lt;p&gt;Here is our three golden-rules. Our products are:&lt;/p&gt;
+
+&lt;table style=&quot;border:0; width:600; font-size:25px&quot;&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;i class=&quot;fa fa-check&quot;&gt;&lt;/i&gt; Simple&lt;/td&gt;
+  &lt;td&gt;&lt;i class=&quot;fa fa-thumbs-o-up&quot;&gt;&lt;/i&gt; Useful&lt;/td&gt;
+  &lt;td&gt;&lt;i class=&quot;fa fa-bolt&quot;&gt;&lt;/i&gt; Open Source&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+ </entry>
+ 
+
+</feed>
